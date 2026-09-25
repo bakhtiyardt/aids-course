@@ -1,0 +1,121 @@
+prompt,seed,sentence,gold,hard,pred,conf,conf_raw,temp
+bare,0,Smoking causes lung cancer in susceptible individuals.,causal,0,causal,1.0,1.0,0.7
+bare,0,Higher income was associated with longer life expectancy.,assoc,0,assoc,0.95,0.95,0.7
+bare,0,The intervention reduced hospital readmissions by 12%.,causal,0,causal,0.95,0.95,0.7
+bare,0,Patients taking the drug had lower mortality rates.,assoc,1,causal,0.95,0.95,0.7
+bare,0,We find that minimum wage increases lead to modest employment losses.,causal,0,causal,0.95,0.95,0.7
+bare,0,Regions with more doctors report better health outcomes.,assoc,0,causal,0.85,0.85,0.7
+bare,0,Randomised assignment to tutoring improved test scores by 0.3 SD.,causal,0,causal,1.0,1.0,0.7
+bare,0,Test scores correlate strongly with household income.,assoc,0,assoc,0.95,0.95,0.7
+bare,0,Exposure to lead impairs cognitive development.,causal,0,causal,1.0,1.0,0.7
+bare,0,Children in older housing show lower cognitive scores.,assoc,0,causal,0.8,0.8,0.7
+bare,0,Vitamin D supplementation had no effect on fracture risk.,causal,0,causal,0.8,0.8,0.7
+bare,0,Low vitamin D levels predict higher fracture risk.,assoc,0,causal,1.0,1.0,0.7
+bare,0,Removing the subsidy decreased consumption.,causal,0,causal,0.95,0.95,0.7
+bare,0,Consumption declined after the subsidy was removed.,assoc,1,causal,0.95,0.95,0.7
+bare,0,The mutation confers resistance to the antibiotic.,causal,0,causal,1.0,1.0,0.7
+bare,0,Resistant strains more frequently carry the mutation.,assoc,0,causal,0.85,0.85,0.7
+bare,0,Early screening reduces mortality from the disease.,causal,0,causal,1.0,1.0,0.7
+bare,0,Screened patients survive longer on average.,assoc,1,causal,0.9,0.9,0.7
+bare,0,The fertiliser increased yield in the field trial.,causal,0,causal,0.95,0.95,0.7
+bare,0,Yield was higher on fertilised plots.,assoc,1,causal,0.8,0.8,0.7
+bare,1,Smoking causes lung cancer in susceptible individuals.,causal,0,causal,1.0,1.0,0.7
+bare,1,Higher income was associated with longer life expectancy.,assoc,0,assoc,0.95,0.95,0.7
+bare,1,The intervention reduced hospital readmissions by 12%.,causal,0,causal,1.0,1.0,0.7
+bare,1,Patients taking the drug had lower mortality rates.,assoc,1,causal,1.0,1.0,0.7
+bare,1,We find that minimum wage increases lead to modest employment losses.,causal,0,causal,0.95,0.95,0.7
+bare,1,Regions with more doctors report better health outcomes.,assoc,0,causal,0.95,0.95,0.7
+bare,1,Randomised assignment to tutoring improved test scores by 0.3 SD.,causal,0,,,,0.7
+bare,1,Test scores correlate strongly with household income.,assoc,0,assoc,0.95,0.95,0.7
+bare,1,Exposure to lead impairs cognitive development.,causal,0,causal,1.0,1.0,0.7
+bare,1,Children in older housing show lower cognitive scores.,assoc,0,causal,0.8,0.8,0.7
+bare,1,Vitamin D supplementation had no effect on fracture risk.,causal,0,causal,0.75,0.75,0.7
+bare,1,Low vitamin D levels predict higher fracture risk.,assoc,0,causal,1.0,1.0,0.7
+bare,1,Removing the subsidy decreased consumption.,causal,0,causal,1.0,1.0,0.7
+bare,1,Consumption declined after the subsidy was removed.,assoc,1,causal,0.95,0.95,0.7
+bare,1,The mutation confers resistance to the antibiotic.,causal,0,causal,1.0,1.0,0.7
+bare,1,Resistant strains more frequently carry the mutation.,assoc,0,causal,0.9,0.9,0.7
+bare,1,Early screening reduces mortality from the disease.,causal,0,causal,0.95,0.95,0.7
+bare,1,Screened patients survive longer on average.,assoc,1,causal,0.8,0.8,0.7
+bare,1,The fertiliser increased yield in the field trial.,causal,0,causal,0.95,0.95,0.7
+bare,1,Yield was higher on fertilised plots.,assoc,1,causal,0.9,0.9,0.7
+defined,0,Smoking causes lung cancer in susceptible individuals.,causal,0,causal,0.9,90.0,0.7
+defined,0,Higher income was associated with longer life expectancy.,assoc,0,assoc,0.95,0.95,0.7
+defined,0,The intervention reduced hospital readmissions by 12%.,causal,0,causal,0.95,0.95,0.7
+defined,0,Patients taking the drug had lower mortality rates.,assoc,1,assoc,0.95,0.95,0.7
+defined,0,We find that minimum wage increases lead to modest employment losses.,causal,0,assoc,0.95,0.95,0.7
+defined,0,Regions with more doctors report better health outcomes.,assoc,0,assoc,0.8,0.8,0.7
+defined,0,Randomised assignment to tutoring improved test scores by 0.3 SD.,causal,0,causal,0.95,0.95,0.7
+defined,0,Test scores correlate strongly with household income.,assoc,0,assoc,0.95,0.95,0.7
+defined,0,Exposure to lead impairs cognitive development.,causal,0,causal,0.9,90.0,0.7
+defined,0,Children in older housing show lower cognitive scores.,assoc,0,assoc,0.85,0.85,0.7
+defined,0,Vitamin D supplementation had no effect on fracture risk.,causal,0,assoc,0.8,0.8,0.7
+defined,0,Low vitamin D levels predict higher fracture risk.,assoc,0,assoc,0.95,0.95,0.7
+defined,0,Removing the subsidy decreased consumption.,causal,0,causal,0.95,0.95,0.7
+defined,0,Consumption declined after the subsidy was removed.,assoc,1,causal,0.95,0.95,0.7
+defined,0,The mutation confers resistance to the antibiotic.,causal,0,causal,0.95,0.95,0.7
+defined,0,Resistant strains more frequently carry the mutation.,assoc,0,assoc,0.8,0.8,0.7
+defined,0,Early screening reduces mortality from the disease.,causal,0,causal,0.95,0.95,0.7
+defined,0,Screened patients survive longer on average.,assoc,1,assoc,0.85,0.85,0.7
+defined,0,The fertiliser increased yield in the field trial.,causal,0,causal,1.0,1.0,0.7
+defined,0,Yield was higher on fertilised plots.,assoc,1,assoc,0.95,0.95,0.7
+defined,1,Smoking causes lung cancer in susceptible individuals.,causal,0,causal,1.0,1.0,0.7
+defined,1,Higher income was associated with longer life expectancy.,assoc,0,assoc,0.95,0.95,0.7
+defined,1,The intervention reduced hospital readmissions by 12%.,causal,0,causal,0.9,90.0,0.7
+defined,1,Patients taking the drug had lower mortality rates.,assoc,1,assoc,0.95,0.95,0.7
+defined,1,We find that minimum wage increases lead to modest employment losses.,causal,0,assoc,0.95,0.95,0.7
+defined,1,Regions with more doctors report better health outcomes.,assoc,0,assoc,0.95,0.95,0.7
+defined,1,Randomised assignment to tutoring improved test scores by 0.3 SD.,causal,0,causal,0.95,0.95,0.7
+defined,1,Test scores correlate strongly with household income.,assoc,0,assoc,0.75,75.0,0.7
+defined,1,Exposure to lead impairs cognitive development.,causal,0,causal,0.9,90.0,0.7
+defined,1,Children in older housing show lower cognitive scores.,assoc,0,assoc,0.95,0.95,0.7
+defined,1,Vitamin D supplementation had no effect on fracture risk.,causal,0,assoc,0.8,0.8,0.7
+defined,1,Low vitamin D levels predict higher fracture risk.,assoc,0,assoc,0.95,0.95,0.7
+defined,1,Removing the subsidy decreased consumption.,causal,0,causal,0.95,0.95,0.7
+defined,1,Consumption declined after the subsidy was removed.,assoc,1,causal,0.95,0.95,0.7
+defined,1,The mutation confers resistance to the antibiotic.,causal,0,causal,0.95,0.95,0.7
+defined,1,Resistant strains more frequently carry the mutation.,assoc,0,assoc,0.95,0.95,0.7
+defined,1,Early screening reduces mortality from the disease.,causal,0,causal,0.95,0.95,0.7
+defined,1,Screened patients survive longer on average.,assoc,1,assoc,0.75,0.75,0.7
+defined,1,The fertiliser increased yield in the field trial.,causal,0,causal,1.0,1.0,0.7
+defined,1,Yield was higher on fertilised plots.,assoc,1,assoc,0.95,0.95,0.7
+role,0,Smoking causes lung cancer in susceptible individuals.,causal,0,causal,1.0,1.0,0.7
+role,0,Higher income was associated with longer life expectancy.,assoc,0,assoc,0.95,0.95,0.7
+role,0,The intervention reduced hospital readmissions by 12%.,causal,0,causal,0.95,0.95,0.7
+role,0,Patients taking the drug had lower mortality rates.,assoc,1,assoc,0.95,0.95,0.7
+role,0,We find that minimum wage increases lead to modest employment losses.,causal,0,causal,0.95,0.95,0.7
+role,0,Regions with more doctors report better health outcomes.,assoc,0,assoc,0.85,0.85,0.7
+role,0,Randomised assignment to tutoring improved test scores by 0.3 SD.,causal,0,causal,0.95,0.95,0.7
+role,0,Test scores correlate strongly with household income.,assoc,0,assoc,0.95,0.95,0.7
+role,0,Exposure to lead impairs cognitive development.,causal,0,causal,1.0,1.0,0.7
+role,0,Children in older housing show lower cognitive scores.,assoc,0,assoc,0.8,0.8,0.7
+role,0,Vitamin D supplementation had no effect on fracture risk.,causal,0,assoc,0.95,0.95,0.7
+role,0,Low vitamin D levels predict higher fracture risk.,assoc,0,causal,0.95,0.95,0.7
+role,0,Removing the subsidy decreased consumption.,causal,0,causal,0.95,0.95,0.7
+role,0,Consumption declined after the subsidy was removed.,assoc,1,causal,0.95,0.95,0.7
+role,0,The mutation confers resistance to the antibiotic.,causal,0,causal,0.95,0.95,0.7
+role,0,Resistant strains more frequently carry the mutation.,assoc,0,assoc,0.8,0.8,0.7
+role,0,Early screening reduces mortality from the disease.,causal,0,assoc,0.7,0.7,0.7
+role,0,Screened patients survive longer on average.,assoc,1,assoc,0.85,0.85,0.7
+role,0,The fertiliser increased yield in the field trial.,causal,0,causal,0.95,0.95,0.7
+role,0,Yield was higher on fertilised plots.,assoc,1,assoc,0.95,0.95,0.7
+role,1,Smoking causes lung cancer in susceptible individuals.,causal,0,causal,0.95,95.0,0.7
+role,1,Higher income was associated with longer life expectancy.,assoc,0,assoc,0.95,0.95,0.7
+role,1,The intervention reduced hospital readmissions by 12%.,causal,0,causal,0.95,0.95,0.7
+role,1,Patients taking the drug had lower mortality rates.,assoc,1,assoc,0.85,0.85,0.7
+role,1,We find that minimum wage increases lead to modest employment losses.,causal,0,causal,0.95,0.95,0.7
+role,1,Regions with more doctors report better health outcomes.,assoc,0,assoc,0.8,0.8,0.7
+role,1,Randomised assignment to tutoring improved test scores by 0.3 SD.,causal,0,causal,0.9,90.0,0.7
+role,1,Test scores correlate strongly with household income.,assoc,0,assoc,0.85,0.85,0.7
+role,1,Exposure to lead impairs cognitive development.,causal,0,causal,0.95,0.95,0.7
+role,1,Children in older housing show lower cognitive scores.,assoc,0,assoc,0.95,0.95,0.7
+role,1,Vitamin D supplementation had no effect on fracture risk.,causal,0,assoc,0.8,0.8,0.7
+role,1,Low vitamin D levels predict higher fracture risk.,assoc,0,causal,0.9,90.0,0.7
+role,1,Removing the subsidy decreased consumption.,causal,0,causal,0.95,0.95,0.7
+role,1,Consumption declined after the subsidy was removed.,assoc,1,causal,0.95,0.95,0.7
+role,1,The mutation confers resistance to the antibiotic.,causal,0,causal,1.0,1.0,0.7
+role,1,Resistant strains more frequently carry the mutation.,assoc,0,assoc,0.7,0.7,0.7
+role,1,Early screening reduces mortality from the disease.,causal,0,assoc,0.8,0.8,0.7
+role,1,Screened patients survive longer on average.,assoc,1,assoc,0.8,0.8,0.7
+role,1,The fertiliser increased yield in the field trial.,causal,0,assoc,0.85,0.85,0.7
+role,1,Yield was higher on fertilised plots.,assoc,1,assoc,0.95,0.95,0.7

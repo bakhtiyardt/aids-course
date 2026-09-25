@@ -1,0 +1,30 @@
+{
+  "os": "Windows 11",
+  "arch": "AMD64",
+  "cpu_cores": 14,
+  "ram_gb": 16.60555264,
+  "python": "3.12.3",
+  "accelerator": "cpu",
+  "tok_per_s_warm": 23.18495112746434,
+  "tok_per_s_cold": 23.901152007013938,
+  "checks": {
+    "python": true,
+    "uv project": true,
+    "httpx": true,
+    "numpy": true,
+    "pandas": true,
+    "matplotlib": true,
+    "jupyterlab": true,
+    "torch": true,
+    "transformers": true,
+    "sentence_transformers": true,
+    "sklearn": true,
+    "seaborn": true,
+    "statsmodels": true,
+    "pydantic": true,
+    "ollama binary": true,
+    "ollama server": true,
+    "model": true,
+    "generation": true
+  }
+}

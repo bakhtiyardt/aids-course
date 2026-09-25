@@ -1,0 +1,25 @@
+{
+  "recorded_utc": "2026-09-25T14:14:37+00:00",
+  "model_tag": "qwen3:1.7b",
+  "sampling": {
+    "temperature": 0.0,
+    "seed": 42
+  },
+  "hardware": {
+    "os": "Windows 11",
+    "arch": "AMD64",
+    "cpu_cores": 14
+  },
+  "measured": {
+    "tok_per_s": 23.0,
+    "sequential_distinct": 2,
+    "concurrent_distinct": 1,
+    "branch_points": 4,
+    "whitespace_variants_distinct": 4
+  },
+  "caveat": "temperature=0 is not bit-reproducible under varying batch composition; see measured.concurrent_distinct",
+  "quantization": "Q4_K_M",
+  "parameter_size": "2.0B",
+  "family": "qwen3",
+  "digest": ""
+}
